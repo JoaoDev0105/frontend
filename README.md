@@ -1,3 +1,29 @@
+# Descrição do projeto Desenvolvido de E-Comerce
+
+<h1 align="center"> Projeto E-COMERCE ( loja virtual ) </h1>
+<p> Projeto desenvolvido por João para trabalho de venda de loja online através de tecnológias desenvolvidas.</p>
+
+<p>
+  Este projeto visa contribuir para o desenvolvimento da tecnologia e poder aprender mais sobre as tecnologias a seguir.
+</p>
+
+## Tecnologias utilizadas
+
+## yarn
+## NPM 
+## React
+## CSS
+## JS
+## Html
+
+### Funcionalidades do sistema
+
+<p> A loja virtual possui mecanismo de cadastro de cliente para poder efetuar a compra</p>
+<p>Mas à possibilidade de acessar o catalogo dos produtos sem precisar efetuar login</p>
+
+
+# Documentação do Sistema Web
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
